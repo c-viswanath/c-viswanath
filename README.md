@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c-viswanath
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning Bootstrap and JavaScript
+- 🌱 Learning App and Web Dev
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me : Email :- cvishwanath1417@gmail.com
 
