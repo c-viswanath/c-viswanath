@@ -20,7 +20,7 @@
 
 <a href="https://github.com/c-viswanath?tab=followers"><img src="https://img.shields.io/github/followers/c-viswanath?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br><br><br><br>
+<br>
 
 <p align="center">
 
@@ -38,7 +38,7 @@
 
 </p>
 
-<br><br>
+<br><br><br><br><br><br>
 
 ##  Technologies currently using
 
