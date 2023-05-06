@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **cvishwanath1417@gmail.com**
 
--  🎨 I'm an aspiring Software Dev and Game Developer
+-  🎨 I'm an aspiring Software Dev 
+
+-  I love to make 3D Artworks in my free time.
 
 - 💬 Ask me about: anything, I am happy to help
 
