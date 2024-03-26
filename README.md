@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **cvishwanath1417@gmail.com**
 
--  🎨 I'm an aspiring Software Dev 
+-  🎨 I'm an aspiring Data Scientist / ML Engineer 
 
 -  I love to make 3D Artworks in my free time.
 
