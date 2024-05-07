@@ -2,11 +2,11 @@
 
 ###  Hi there 👋 I am C.Vishwanath  aka c-viswanath
 
-> I am a hardworking individual who is dedicated towards his goals.
+> I am a hardworking individual who is dedicated to his goals.
 
 <br />
 
-- 🌱 &nbsp;I'm currently studying for B.Tech (Hons.) in XIM University, Bhubaneswar
+- 🌱 &nbsp; I'm currently studying for B.Tech (Hons.) at XIM University, Bhubaneswar
 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -14,9 +14,9 @@
 
 -  🎨 I'm an aspiring Data Scientist / ML Engineer 
 
--  I love to make 3D Artworks in my free time.
+-  I love to make 3D Artwork in my free time.
 
-- 💬 Ask me about: anything, I am happy to help
+- 💬 Ask me about: anything; I am happy to help
 
 - <img src="https://komarev.com/ghpvc/?username=c-viswanath&label=Profile%20views&color=brightgreen&style=plastic" alt="vishwanath's profile views" />
 
