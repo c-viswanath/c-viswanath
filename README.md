@@ -3,6 +3,7 @@
 ###  Hi there 👋 I am C.Vishwanath  aka c-viswanath
 
 > I am a hardworking individual who is dedicated to his goals.
+> Data Science and ML enthusiast
 
 <br />
 
