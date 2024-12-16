@@ -17,7 +17,7 @@
 
 -  I love to make 3D Artwork in my free time.
 
-- 💬 Ask me about: anything; I am happy to help
+- 💬 Ask me about anything; I am happy to help
 
 - <img src="https://komarev.com/ghpvc/?username=c-viswanath&label=Profile%20views&color=brightgreen&style=plastic" alt="vishwanath's profile views" />
 
