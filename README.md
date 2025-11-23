@@ -6,8 +6,9 @@
 > Data Science and ML enthusiast
 
 <br />
+- Currently at IIIT Bangalore, India, pursuing MS Research
 
-- 🌱 &nbsp; I'm currently studying for B.Tech (Hons.) at XIM University, Bhubaneswar
+- 🌱 &nbsp; I'm did B.Tech (Hons.) at XIM University, Bhubaneswar
 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
