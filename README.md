@@ -24,44 +24,4 @@
 
 <a href="https://github.com/c-viswanath?tab=followers"><img src="https://img.shields.io/github/followers/c-viswanath?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br>
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Gituhub Stats</b></i>
-
-</p>
-
-<p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-viswanath&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
-
-</p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=c-viswanath&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
-
-</p>
-
-<br><br><br><br><br><br>
-
-
-
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/c-viswanath/github-profile-trophy">
-
-<img src="https://github-profile-trophy.vercel.app/?username=c-viswanath&layout=compact&theme=algolia" alt="thenuka99" />
-
-</a>
-
-</p>
-
-[linkedin]: https://www.linkedin.com/in/c-vishwanath-7b9791175/
-
 
