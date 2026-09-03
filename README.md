@@ -16,7 +16,7 @@
 
 -  🎨 I'm an aspiring Data Scientist / ML Engineer 
 
--  I love to make 3D Artwork in my free time.
+-  I love to make 3D Artwork in my free time. My Instagram : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madeby.cv/)
 
 - 💬 Ask me about anything; I am happy to help
 
